@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asingh4451&show_icons=true&locale=en" alt="asingh4451" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asingh4451&" alt="asingh4451" /></p>
+
+
+[![An image of @asingh4451's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asingh4451)](https://holopin.io/@asingh4451)
